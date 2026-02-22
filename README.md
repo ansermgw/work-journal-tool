@@ -1,8 +1,8 @@
 # Work journal tool
 
-Python script to validate a work journal and visualize it.
+Python script to validate a work journal and visualise it.
 
-It accepts the following journal format
+It accepts the following journal format:
 ```csv
 start, end, category, description
 23.02.2026 09:00, 23.02.2026 10:00, dev, unit tests
