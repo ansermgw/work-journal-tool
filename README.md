@@ -12,7 +12,7 @@ It will validate that
 * each start time is before the end time
 * there are no overlapping entries
 
-Example output
+## Example output
 ![work_journal.png](work_journal.png)
 
 ## Usage
@@ -29,7 +29,6 @@ Example output
 3. add this content to it
     ```bash
    #!/usr/bin/env bash
-   set -euo pipefail
    ./main.py work_journal.csv work_journal.png
    git add work_journal.png
    ```
