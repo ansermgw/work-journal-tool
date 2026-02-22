@@ -31,7 +31,6 @@ if __name__ == '__main__':
 
 
     # check journal does not contains overlapping entries
-    # source: chatGPT
     df_sorted = df.sort_values(['start', 'end']).copy()
 
     prev_end = df_sorted['end'].shift()
@@ -46,6 +45,7 @@ if __name__ == '__main__':
     df['duration_hours'] = (df['end'] - df['start']).dt.total_seconds() / 3600
     df['start_week'] = df['start'].dt.to_period('W').dt.start_time
 
+    # plot
     weekly_df = df.groupby(["start_week", "category"])["duration_hours"].sum().reset_index()
     weekly_df_pivoted = weekly_df.pivot(index='start_week', columns='category', values='duration_hours').fillna(0).sort_index()
 
