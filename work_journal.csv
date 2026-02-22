@@ -1,0 +1,318 @@
+start, end, category, description
+23.02.2026 09:00, 23.02.2026 10:00, dev, unit tests
+23.02.2026 10:00, 23.02.2026 10:15, research, reading papers
+23.02.2026 10:15, 23.02.2026 11:30, research, literature review
+23.02.2026 11:30, 23.02.2026 12:00, research, prototype investigation
+23.02.2026 13:00, 23.02.2026 14:00, dev, pipeline development
+23.02.2026 14:00, 23.02.2026 15:15, dev, feature implementation
+23.02.2026 15:15, 23.02.2026 15:30, dev, code refactor
+25.02.2026 09:00, 25.02.2026 10:30, dev, bug fixing
+25.02.2026 10:30, 25.02.2026 12:00, dev, unit tests
+25.02.2026 13:00, 25.02.2026 16:00, report, documentation
+27.02.2026 09:00, 27.02.2026 10:00, dev, unit tests
+27.02.2026 10:00, 27.02.2026 12:00, dev, pipeline development
+27.02.2026 13:00, 27.02.2026 14:15, dev, code refactor
+27.02.2026 14:15, 27.02.2026 15:00, research, data exploration
+27.02.2026 15:00, 27.02.2026 16:00, research, experiment design
+02.03.2026 09:00, 02.03.2026 10:15, dev, pipeline development
+02.03.2026 10:15, 02.03.2026 12:00, dev, feature implementation
+02.03.2026 13:00, 02.03.2026 13:30, dev, code refactor
+02.03.2026 13:30, 02.03.2026 14:00, report, results write-up
+04.03.2026 09:00, 04.03.2026 11:45, dev, unit tests
+04.03.2026 11:45, 04.03.2026 12:00, dev, code refactor
+04.03.2026 13:00, 04.03.2026 14:15, dev, pipeline development
+04.03.2026 14:15, 04.03.2026 15:00, research, reading papers
+04.03.2026 15:00, 04.03.2026 15:30, dev, bug fixing
+06.03.2026 09:00, 06.03.2026 09:15, admin, planning
+06.03.2026 09:15, 06.03.2026 11:15, dev, code refactor
+06.03.2026 11:15, 06.03.2026 12:00, dev, feature implementation
+06.03.2026 13:00, 06.03.2026 15:00, research, reading papers
+06.03.2026 15:00, 06.03.2026 16:00, dev, pipeline development
+09.03.2026 09:00, 09.03.2026 10:45, dev, feature implementation
+09.03.2026 10:45, 09.03.2026 12:00, dev, code refactor
+09.03.2026 13:00, 09.03.2026 14:00, report, documentation
+09.03.2026 14:00, 09.03.2026 15:00, research, data exploration
+11.03.2026 09:00, 11.03.2026 10:15, research, literature review
+11.03.2026 10:15, 11.03.2026 12:00, dev, bug fixing
+11.03.2026 13:00, 11.03.2026 15:30, dev, pipeline development
+11.03.2026 15:30, 11.03.2026 16:00, report, slides preparation
+13.03.2026 09:00, 13.03.2026 11:00, dev, code refactor
+13.03.2026 11:00, 13.03.2026 12:00, dev, unit tests
+13.03.2026 13:00, 13.03.2026 15:00, research, reading papers
+13.03.2026 15:00, 13.03.2026 16:00, dev, feature implementation
+16.03.2026 09:00, 16.03.2026 10:00, report, results write-up
+16.03.2026 10:00, 16.03.2026 12:00, dev, pipeline development
+16.03.2026 13:00, 16.03.2026 14:00, dev, bug fixing
+16.03.2026 14:00, 16.03.2026 15:00, research, experiment design
+18.03.2026 09:00, 18.03.2026 10:15, dev, unit tests
+18.03.2026 10:15, 18.03.2026 12:00, dev, feature implementation
+18.03.2026 13:00, 18.03.2026 16:00, dev, code refactor
+20.03.2026 09:00, 20.03.2026 10:00, research, data exploration
+20.03.2026 10:00, 20.03.2026 11:00, report, documentation
+20.03.2026 11:00, 20.03.2026 12:00, dev, bug fixing
+20.03.2026 13:00, 20.03.2026 15:00, dev, pipeline development
+20.03.2026 15:00, 20.03.2026 16:00, dev, feature implementation
+23.03.2026 09:00, 23.03.2026 10:30, dev, feature implementation
+23.03.2026 10:30, 23.03.2026 12:00, research, reading papers
+23.03.2026 13:00, 23.03.2026 14:15, dev, code refactor
+23.03.2026 14:15, 23.03.2026 15:00, report, weekly report
+25.03.2026 09:00, 25.03.2026 12:00, dev, unit tests
+25.03.2026 13:00, 25.03.2026 14:15, dev, pipeline development
+25.03.2026 14:15, 25.03.2026 15:00, research, literature review
+25.03.2026 15:00, 25.03.2026 16:00, dev, bug fixing
+27.03.2026 09:00, 27.03.2026 10:45, dev, feature implementation
+27.03.2026 10:45, 27.03.2026 12:00, admin, email triage
+27.03.2026 13:00, 27.03.2026 15:00, dev, code refactor
+27.03.2026 15:00, 27.03.2026 16:15, research, experiment design
+27.03.2026 16:15, 27.03.2026 17:00, report, documentation
+30.03.2026 09:00, 30.03.2026 11:15, dev, pipeline development
+30.03.2026 11:15, 30.03.2026 12:00, report, slides preparation
+30.03.2026 13:00, 30.03.2026 14:00, dev, bug fixing
+30.03.2026 14:00, 30.03.2026 15:00, research, data exploration
+01.04.2026 09:00, 01.04.2026 10:00, dev, unit tests
+01.04.2026 10:00, 01.04.2026 12:00, dev, code refactor
+01.04.2026 13:00, 01.04.2026 15:00, dev, feature implementation
+01.04.2026 15:00, 01.04.2026 16:00, research, reading papers
+03.04.2026 09:00, 03.04.2026 11:00, dev, pipeline development
+03.04.2026 11:00, 03.04.2026 12:00, report, results write-up
+03.04.2026 13:00, 03.04.2026 14:15, dev, bug fixing
+03.04.2026 14:15, 03.04.2026 16:00, research, literature review
+06.04.2026 09:00, 06.04.2026 11:00, dev, code refactor
+06.04.2026 11:00, 06.04.2026 12:00, report, weekly report
+06.04.2026 13:00, 06.04.2026 14:15, dev, unit tests
+06.04.2026 14:15, 06.04.2026 15:00, research, experiment design
+08.04.2026 09:00, 08.04.2026 10:45, dev, feature implementation
+08.04.2026 10:45, 08.04.2026 12:00, dev, pipeline development
+08.04.2026 13:00, 08.04.2026 14:00, research, reading papers
+08.04.2026 14:00, 08.04.2026 16:00, dev, bug fixing
+10.04.2026 09:00, 10.04.2026 11:30, dev, code refactor
+10.04.2026 11:30, 10.04.2026 12:00, admin, meeting
+10.04.2026 13:00, 10.04.2026 15:00, dev, unit tests
+10.04.2026 15:00, 10.04.2026 16:30, research, data exploration
+13.04.2026 09:00, 13.04.2026 11:00, dev, pipeline development
+13.04.2026 11:00, 13.04.2026 12:00, report, documentation
+13.04.2026 13:00, 13.04.2026 15:00, dev, feature implementation
+15.04.2026 09:00, 15.04.2026 09:30, admin, timesheet
+15.04.2026 09:30, 15.04.2026 12:00, dev, bug fixing
+15.04.2026 13:00, 15.04.2026 15:00, research, experiment design
+15.04.2026 15:00, 15.04.2026 16:00, dev, code refactor
+17.04.2026 09:00, 17.04.2026 12:00, dev, unit tests
+17.04.2026 13:00, 17.04.2026 14:00, report, weekly report
+17.04.2026 14:00, 17.04.2026 16:00, research, reading papers
+20.04.2026 09:00, 20.04.2026 12:00, dev, feature implementation
+20.04.2026 13:00, 20.04.2026 14:00, research, data exploration
+20.04.2026 14:00, 20.04.2026 15:00, report, results write-up
+22.04.2026 09:00, 22.04.2026 11:00, dev, code refactor
+22.04.2026 11:00, 22.04.2026 12:00, dev, pipeline development
+22.04.2026 13:00, 22.04.2026 15:00, research, literature review
+22.04.2026 15:00, 22.04.2026 16:00, admin, coordination
+24.04.2026 09:00, 24.04.2026 10:00, dev, bug fixing
+24.04.2026 10:00, 24.04.2026 12:00, dev, unit tests
+24.04.2026 13:00, 24.04.2026 14:00, report, documentation
+24.04.2026 14:00, 24.04.2026 16:00, dev, feature implementation
+27.04.2026 09:00, 27.04.2026 10:15, research, reading papers
+27.04.2026 10:15, 27.04.2026 12:00, dev, pipeline development
+27.04.2026 13:00, 27.04.2026 15:00, dev, code refactor
+27.04.2026 15:00, 27.04.2026 16:00, report, weekly report
+29.04.2026 09:00, 29.04.2026 11:00, dev, feature implementation
+29.04.2026 11:00, 29.04.2026 12:00, admin, meeting
+29.04.2026 13:00, 29.04.2026 15:00, dev, bug fixing
+29.04.2026 15:00, 29.04.2026 16:00, research, experiment design
+01.05.2026 09:00, 01.05.2026 10:00, report, slides preparation
+01.05.2026 10:00, 01.05.2026 12:00, dev, unit tests
+01.05.2026 13:00, 01.05.2026 15:00, dev, pipeline development
+01.05.2026 15:00, 01.05.2026 16:00, research, literature review
+04.05.2026 09:00, 04.05.2026 11:00, dev, code refactor
+04.05.2026 11:00, 04.05.2026 12:00, report, documentation
+04.05.2026 13:00, 04.05.2026 14:00, research, data exploration
+04.05.2026 14:00, 04.05.2026 15:00, dev, bug fixing
+06.05.2026 09:00, 06.05.2026 11:00, dev, feature implementation
+06.05.2026 11:00, 06.05.2026 12:00, dev, pipeline development
+06.05.2026 13:00, 06.05.2026 15:00, research, reading papers
+06.05.2026 15:00, 06.05.2026 16:00, admin, email triage
+08.05.2026 09:00, 08.05.2026 10:15, dev, unit tests
+08.05.2026 10:15, 08.05.2026 12:00, dev, code refactor
+08.05.2026 13:00, 08.05.2026 14:15, report, results write-up
+08.05.2026 14:15, 08.05.2026 16:00, research, experiment design
+11.05.2026 09:00, 11.05.2026 10:00, research, literature review
+11.05.2026 10:00, 11.05.2026 12:00, dev, pipeline development
+11.05.2026 13:00, 11.05.2026 15:00, dev, feature implementation
+13.05.2026 09:00, 13.05.2026 11:00, dev, bug fixing
+13.05.2026 11:00, 13.05.2026 12:00, report, weekly report
+13.05.2026 13:00, 13.05.2026 15:00, dev, unit tests
+13.05.2026 15:00, 13.05.2026 16:00, research, reading papers
+15.05.2026 09:00, 15.05.2026 11:15, dev, code refactor
+15.05.2026 11:15, 15.05.2026 12:00, admin, planning
+15.05.2026 13:00, 15.05.2026 15:00, dev, pipeline development
+15.05.2026 15:00, 15.05.2026 16:45, research, data exploration
+18.05.2026 09:00, 18.05.2026 13:00, dev, feature implementation
+18.05.2026 13:00, 18.05.2026 15:15, dev, code refactor
+18.05.2026 15:15, 18.05.2026 17:00, dev, unit tests
+19.05.2026 09:00, 19.05.2026 10:45, dev, pipeline development
+19.05.2026 10:45, 19.05.2026 12:00, report, documentation
+19.05.2026 13:00, 19.05.2026 16:00, dev, bug fixing
+19.05.2026 16:00, 19.05.2026 17:00, admin, meeting
+20.05.2026 09:00, 20.05.2026 11:00, dev, feature implementation
+20.05.2026 11:00, 20.05.2026 12:00, research, reading papers
+20.05.2026 13:00, 20.05.2026 15:15, dev, unit tests
+20.05.2026 15:15, 20.05.2026 17:00, dev, code refactor
+21.05.2026 09:00, 21.05.2026 12:00, dev, pipeline development
+21.05.2026 13:00, 21.05.2026 14:45, report, slides preparation
+21.05.2026 14:45, 21.05.2026 17:00, dev, bug fixing
+22.05.2026 09:00, 22.05.2026 11:15, dev, feature implementation
+22.05.2026 11:15, 22.05.2026 12:00, admin, email triage
+22.05.2026 13:00, 22.05.2026 15:00, report, results write-up
+22.05.2026 15:00, 22.05.2026 17:00, dev, unit tests
+25.05.2026 09:00, 25.05.2026 10:15, research, experiment design
+25.05.2026 10:15, 25.05.2026 12:00, dev, pipeline development
+25.05.2026 13:00, 25.05.2026 15:00, dev, code refactor
+25.05.2026 15:00, 25.05.2026 17:00, dev, feature implementation
+26.05.2026 09:00, 26.05.2026 11:00, dev, unit tests
+26.05.2026 11:00, 26.05.2026 12:00, report, documentation
+26.05.2026 13:00, 26.05.2026 14:45, dev, bug fixing
+26.05.2026 14:45, 26.05.2026 17:00, dev, feature implementation
+27.05.2026 09:00, 27.05.2026 11:00, dev, code refactor
+27.05.2026 11:00, 27.05.2026 12:00, research, data exploration
+27.05.2026 13:00, 27.05.2026 15:00, dev, pipeline development
+27.05.2026 15:00, 27.05.2026 17:00, report, weekly report
+28.05.2026 09:00, 28.05.2026 10:45, dev, feature implementation
+28.05.2026 10:45, 28.05.2026 12:00, admin, coordination
+28.05.2026 13:00, 28.05.2026 15:00, dev, unit tests
+28.05.2026 15:00, 28.05.2026 17:00, dev, bug fixing
+29.05.2026 09:00, 29.05.2026 12:00, dev, pipeline development
+29.05.2026 13:00, 29.05.2026 15:15, dev, code refactor
+29.05.2026 15:15, 29.05.2026 17:00, research, reading papers
+01.06.2026 09:00, 01.06.2026 11:00, dev, feature implementation
+01.06.2026 11:00, 01.06.2026 12:00, report, documentation
+01.06.2026 13:00, 01.06.2026 15:00, dev, unit tests
+01.06.2026 15:00, 01.06.2026 17:00, dev, pipeline development
+02.06.2026 09:00, 02.06.2026 10:45, dev, bug fixing
+02.06.2026 10:45, 02.06.2026 12:00, admin, meeting
+02.06.2026 13:00, 02.06.2026 15:00, dev, code refactor
+02.06.2026 15:00, 02.06.2026 17:00, report, slides preparation
+03.06.2026 09:00, 03.06.2026 12:00, dev, pipeline development
+03.06.2026 13:00, 03.06.2026 14:45, research, literature review
+03.06.2026 14:45, 03.06.2026 17:00, dev, feature implementation
+04.06.2026 09:00, 04.06.2026 11:00, dev, unit tests
+04.06.2026 11:00, 04.06.2026 12:00, report, results write-up
+04.06.2026 13:00, 04.06.2026 15:15, dev, bug fixing
+04.06.2026 15:15, 04.06.2026 17:00, dev, code refactor
+05.06.2026 09:00, 05.06.2026 12:00, dev, pipeline development
+05.06.2026 13:00, 05.06.2026 14:45, research, experiment design
+05.06.2026 14:45, 05.06.2026 17:00, dev, feature implementation
+08.06.2026 09:00, 08.06.2026 11:00, dev, code refactor
+08.06.2026 11:00, 08.06.2026 12:00, report, documentation
+08.06.2026 13:00, 08.06.2026 15:00, dev, bug fixing
+08.06.2026 15:00, 08.06.2026 17:00, dev, unit tests
+09.06.2026 09:00, 09.06.2026 10:45, dev, pipeline development
+09.06.2026 10:45, 09.06.2026 12:00, admin, coordination
+09.06.2026 13:00, 09.06.2026 15:00, dev, feature implementation
+09.06.2026 15:00, 09.06.2026 17:00, report, weekly report
+10.06.2026 09:00, 10.06.2026 12:00, dev, unit tests
+10.06.2026 13:00, 10.06.2026 14:45, dev, code refactor
+10.06.2026 14:45, 10.06.2026 17:00, research, reading papers
+11.06.2026 09:00, 11.06.2026 10:45, dev, bug fixing
+11.06.2026 10:45, 11.06.2026 12:00, report, results write-up
+11.06.2026 13:00, 11.06.2026 15:00, dev, pipeline development
+11.06.2026 15:00, 11.06.2026 17:00, dev, feature implementation
+12.06.2026 09:00, 12.06.2026 12:00, dev, unit tests
+12.06.2026 13:00, 12.06.2026 15:15, dev, code refactor
+12.06.2026 15:15, 12.06.2026 17:00, research, data exploration
+15.06.2026 09:00, 15.06.2026 11:00, dev, pipeline development
+15.06.2026 11:00, 15.06.2026 12:00, report, documentation
+15.06.2026 13:00, 15.06.2026 15:00, dev, feature implementation
+15.06.2026 15:00, 15.06.2026 17:00, dev, bug fixing
+16.06.2026 09:00, 16.06.2026 11:00, dev, unit tests
+16.06.2026 11:00, 16.06.2026 12:00, admin, meeting
+16.06.2026 13:00, 16.06.2026 15:00, dev, code refactor
+16.06.2026 15:00, 16.06.2026 17:00, report, slides preparation
+17.06.2026 09:00, 17.06.2026 12:00, dev, pipeline development
+17.06.2026 13:00, 17.06.2026 14:45, research, literature review
+17.06.2026 14:45, 17.06.2026 17:00, dev, feature implementation
+18.06.2026 09:00, 18.06.2026 11:00, dev, bug fixing
+18.06.2026 11:00, 18.06.2026 12:00, report, results write-up
+18.06.2026 13:00, 18.06.2026 15:15, dev, unit tests
+18.06.2026 15:15, 18.06.2026 17:00, dev, code refactor
+19.06.2026 09:00, 19.06.2026 12:00, dev, pipeline development
+19.06.2026 13:00, 19.06.2026 14:45, research, experiment design
+19.06.2026 14:45, 19.06.2026 17:00, dev, feature implementation
+22.06.2026 09:00, 22.06.2026 10:45, dev, code refactor
+22.06.2026 10:45, 22.06.2026 12:00, report, documentation
+22.06.2026 13:00, 22.06.2026 15:00, dev, bug fixing
+22.06.2026 15:00, 22.06.2026 17:00, dev, unit tests
+23.06.2026 09:00, 23.06.2026 10:45, dev, pipeline development
+23.06.2026 10:45, 23.06.2026 12:00, admin, coordination
+23.06.2026 13:00, 23.06.2026 15:00, dev, feature implementation
+23.06.2026 15:00, 23.06.2026 17:00, report, weekly report
+24.06.2026 09:00, 24.06.2026 12:00, dev, unit tests
+24.06.2026 13:00, 24.06.2026 14:45, dev, code refactor
+24.06.2026 14:45, 24.06.2026 17:00, research, reading papers
+25.06.2026 09:00, 25.06.2026 10:45, dev, bug fixing
+25.06.2026 10:45, 25.06.2026 12:00, report, results write-up
+25.06.2026 13:00, 25.06.2026 15:00, dev, pipeline development
+25.06.2026 15:00, 25.06.2026 17:00, dev, feature implementation
+26.06.2026 09:00, 26.06.2026 12:00, dev, unit tests
+26.06.2026 13:00, 26.06.2026 15:15, dev, code refactor
+26.06.2026 15:15, 26.06.2026 17:00, research, data exploration
+29.06.2026 09:00, 29.06.2026 11:00, dev, pipeline development
+29.06.2026 11:00, 29.06.2026 12:00, report, documentation
+29.06.2026 13:00, 29.06.2026 15:00, dev, feature implementation
+29.06.2026 15:00, 29.06.2026 17:00, dev, bug fixing
+30.06.2026 09:00, 30.06.2026 11:00, dev, unit tests
+30.06.2026 11:00, 30.06.2026 12:00, admin, meeting
+30.06.2026 13:00, 30.06.2026 15:00, dev, code refactor
+30.06.2026 15:00, 30.06.2026 17:00, report, slides preparation
+01.07.2026 09:00, 01.07.2026 12:00, dev, pipeline development
+01.07.2026 13:00, 01.07.2026 14:45, research, literature review
+01.07.2026 14:45, 01.07.2026 17:00, dev, feature implementation
+02.07.2026 09:00, 02.07.2026 11:00, dev, bug fixing
+02.07.2026 11:00, 02.07.2026 12:00, report, results write-up
+02.07.2026 13:00, 02.07.2026 15:15, dev, unit tests
+02.07.2026 15:15, 02.07.2026 17:00, dev, code refactor
+03.07.2026 09:00, 03.07.2026 12:00, dev, pipeline development
+03.07.2026 13:00, 03.07.2026 14:45, research, experiment design
+03.07.2026 14:45, 03.07.2026 17:00, dev, feature implementation
+06.07.2026 09:00, 06.07.2026 11:00, dev, code refactor
+06.07.2026 11:00, 06.07.2026 12:00, report, documentation
+06.07.2026 13:00, 06.07.2026 15:00, dev, bug fixing
+06.07.2026 15:00, 06.07.2026 17:00, dev, unit tests
+07.07.2026 09:00, 07.07.2026 10:45, dev, pipeline development
+07.07.2026 10:45, 07.07.2026 12:00, admin, coordination
+07.07.2026 13:00, 07.07.2026 15:00, dev, feature implementation
+07.07.2026 15:00, 07.07.2026 17:00, report, weekly report
+08.07.2026 09:00, 08.07.2026 12:00, dev, unit tests
+08.07.2026 13:00, 08.07.2026 14:45, dev, code refactor
+08.07.2026 14:45, 08.07.2026 17:00, research, reading papers
+09.07.2026 09:00, 09.07.2026 10:45, dev, bug fixing
+09.07.2026 10:45, 09.07.2026 12:00, report, results write-up
+09.07.2026 13:00, 09.07.2026 15:00, dev, pipeline development
+09.07.2026 15:00, 09.07.2026 17:00, dev, feature implementation
+10.07.2026 09:00, 10.07.2026 12:00, dev, unit tests
+10.07.2026 13:00, 10.07.2026 15:15, dev, code refactor
+10.07.2026 15:15, 10.07.2026 17:00, research, data exploration
+13.07.2026 09:00, 13.07.2026 11:00, dev, pipeline development
+13.07.2026 11:00, 13.07.2026 12:00, report, documentation
+13.07.2026 13:00, 13.07.2026 15:00, dev, feature implementation
+13.07.2026 15:00, 13.07.2026 17:00, dev, bug fixing
+14.07.2026 09:00, 14.07.2026 11:00, dev, unit tests
+14.07.2026 11:00, 14.07.2026 12:00, admin, meeting
+14.07.2026 13:00, 14.07.2026 15:00, dev, code refactor
+14.07.2026 15:00, 14.07.2026 17:00, report, slides preparation
+15.07.2026 09:00, 15.07.2026 12:00, dev, pipeline development
+15.07.2026 13:00, 15.07.2026 14:45, research, literature review
+15.07.2026 14:45, 15.07.2026 17:00, dev, feature implementation
+16.07.2026 09:00, 16.07.2026 11:00, dev, bug fixing
+16.07.2026 11:00, 16.07.2026 12:00, report, results write-up
+16.07.2026 13:00, 16.07.2026 15:15, dev, unit tests
+16.07.2026 15:15, 16.07.2026 17:00, dev, code refactor
+17.07.2026 09:00, 17.07.2026 12:00, dev, pipeline development
+17.07.2026 13:00, 17.07.2026 14:45, research, experiment design
+17.07.2026 14:45, 17.07.2026 17:00, dev, feature implementation
+20.07.2026 09:00, 20.07.2026 13:00, dev, feature implementation
+20.07.2026 13:00, 20.07.2026 15:15, dev, code refactor
+20.07.2026 15:15, 20.07.2026 17:00, dev, unit tests
+21.07.2026 09:00, 21.07.2026 10:45, dev, pipeline development
+21.07.2026 10:45, 21.07.2026 12:00, report, documentation
+21.07.2026 13:00, 21.07.2026 16:00, research, prototype investigation
+21.07.2026 16:00, 21.07.2026 16:15, report, stakeholder update
+21.07.2026 16:15, 21.07.2026 16:30, dev, code refactor
