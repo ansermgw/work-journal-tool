@@ -61,5 +61,10 @@ if __name__ == '__main__':
     ax.set_title(f"Weekly hours by category (total {df['duration_hours'].sum():.2f} h)")
     ax.set_xlabel("Week")
     ax.set_ylabel("Hours")
+    ax.set_xticks(weekly_df_pivoted.index.to_pydatetime())
+
+    for label in ax.get_xticklabels():
+        label.set_rotation(45)
+        label.set_ha("right")
 
     fig.savefig(dest_path)
